@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8YVWrPZJE5xQLmub8+32PnC5yrJaEBfKSUmzuuVjQF9MfozrZmDLb5yuLgzFIo6ko9bSMb6ADW/iqpO7t928Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark van Elswijk\\Documents\\Programmas\\Programma 21900546 nieuwbouw\\VB.NET\\SewerVault_PassBolt\\SewerVault_Passbolt_V3\\PassboltAPI\\PassboltAPI.NET_Sample\\Passbolt.NET_Sample.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark van Elswijk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mark van Elswijk\\.nuget\\packages\\pgpcore\\5.5.0\\pgpcore.5.5.0.nupkg.sha512",
+    "C:\\Users\\Mark van Elswijk\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}

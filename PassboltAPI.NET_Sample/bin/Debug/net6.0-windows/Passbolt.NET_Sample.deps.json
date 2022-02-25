@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Passbolt.NET_Sample/1.0.0": {
+        "dependencies": {
+          "Passbolt.NET": "1.0.0"
+        },
+        "runtime": {
+          "Passbolt.NET_Sample.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "PgpCore/5.5.0": {
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PgpCore.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.5.0.0"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.8.9": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.9.0",
+            "fileVersion": "1.8.9.1"
+          }
+        }
+      },
+      "Passbolt.NET/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "PgpCore": "5.5.0"
+        },
+        "runtime": {
+          "Passbolt.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passbolt.NET_Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "PgpCore/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gzuO78gtgNtYuCgpJcI7aQK5RSOxv9etTdKeg4TNU+7p+8B+Wtu5F5tNrEFZin5v5pHGruK5m0tBzCUH0134DQ==",
+      "path": "pgpcore/5.5.0",
+      "hashPath": "pgpcore.5.5.0.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wlJo8aFoeyl+W93iFXTK5ShzDYk5WBqoUPjTNEM0Xv9kn1H+4hmuCjF0/n8HLm9Nnp1aY6KNndWqQTNk+NGgRQ==",
+      "path": "portable.bouncycastle/1.8.9",
+      "hashPath": "portable.bouncycastle.1.8.9.nupkg.sha512"
+    },
+    "Passbolt.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

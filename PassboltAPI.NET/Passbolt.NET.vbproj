@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Passbolt.NET</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <Authors>Mark van Elswijk</Authors>
+    <Company></Company>
+    <Description>A Passbolt API .NET class library.
+Developed for Passbolt API v2</Description>
+    <AssemblyName>Passbolt.NET</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="PgpCore" Version="5.5.0" />
+  </ItemGroup>
+
+</Project>
