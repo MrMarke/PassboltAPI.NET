@@ -24,6 +24,7 @@ This project is developed to use this API inside a .NET application.
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#remarks">Remarks</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
   </ol>
 </details>
 
@@ -263,3 +264,6 @@ I have developed this library using a localized instance of Passbolt CE on a VM 
 The plan is to have a small Ubuntu server running Passbolt CE, still in the local network.
 Perhaps in the future i will transfer it to a remote server.
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Disclaimer
+This is a community driven project and it is not associated with Passbolt SA.
